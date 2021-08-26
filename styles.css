@@ -1,0 +1,28 @@
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large ;
+    text-align: center;
+    color: indigo ;
+}
+button ,  input{
+    width: 15%;
+    font-size: large;
+    box-sizing: inherit;
+    text-align: left;
+    
+}
+table, tr,th {
+    border: 1px solid black;
+    margin: 2px;
+    padding : 5px;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+body{
+    background-image: url(assets/images/istockphoto-465639762-612x612.jpg);
+    background-size: cover;
+}
+div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
